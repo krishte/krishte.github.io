@@ -15,6 +15,8 @@
     "sass": "1.53.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test",
@@ -44,6 +46,7 @@
   },
   "devDependencies": {
     "bootstrap": "4.6.0",
+    "gh-pages": "^5.0.0",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.9"
   },
@@ -80,5 +83,5 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/paper-kit-react/issues"
   },
-  "homepage": "https://demos.creative-tim.com/paper-kit-react/#/index"
+  "homepage": "https://krishte.github.io/index"
 }
