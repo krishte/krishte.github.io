@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/paper-kit-react/static/css/main.242d446c.css",
+    "main.js": "/paper-kit-react/static/js/main.8e53a1aa.js",
+    "static/media/Switzerland2.JPG": "/paper-kit-react/static/media/Switzerland2.29bb15f65397e43bfbee.JPG",
+    "static/media/Tejas.jpg": "/paper-kit-react/static/media/Tejas.82f4a59bcc7b9e3ed7f6.jpg",
+    "static/media/Website.png": "/paper-kit-react/static/media/Website.d22bd9fc567917e8a4ef.png",
+    "static/media/login-image.jpg": "/paper-kit-react/static/media/login-image.21e8ba3f9dca3c346851.jpg",
+    "static/media/fabio-mangione.jpg": "/paper-kit-react/static/media/fabio-mangione.488bc249dffdae3556c6.jpg",
+    "static/media/BackgroundNoise.png": "/paper-kit-react/static/media/BackgroundNoise.53892809692a98993c4e.png",
+    "static/media/daniel-olahh.jpg": "/paper-kit-react/static/media/daniel-olahh.77c0ffac60f9218de675.jpg",
+    "static/media/Tracr.png": "/paper-kit-react/static/media/Tracr.340494ab36b21adad0b6.png",
+    "static/media/clem-onojeghuo-2.jpg": "/paper-kit-react/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
+    "static/media/ayo-ogunseinde-2.jpg": "/paper-kit-react/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
+    "static/media/joe-gardner-2.jpg": "/paper-kit-react/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/paper-kit-react/static/media/clem-onojeghuo-3.83003f446b7372176b72.jpg",
+    "static/media/erik-lucatero-2.jpg": "/paper-kit-react/static/media/erik-lucatero-2.d09715abe0463c58d6be.jpg",
+    "static/media/Sudoku.png": "/paper-kit-react/static/media/Sudoku.dadf96dcd2c709b59f9e.png",
+    "static/media/nucleo-icons.eot": "/paper-kit-react/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/paper-kit-react/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/nucleo-icons.woff": "/paper-kit-react/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/paper-kit-react/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/paper-kit-react/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.242d446c.css",
+    "static/js/main.8e53a1aa.js"
+  ]
+}
