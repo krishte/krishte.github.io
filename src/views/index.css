@@ -1,0 +1,32 @@
+.link-color{
+    color: #FFF !important;
+    transition: 0.2s !important;
+}
+
+.link-color:hover{
+    color: grey !important;
+    transform: scale3d(1.2, 1.2, 1);
+    transition: 0.2s !important;
+}
+
+.icon-color {
+    color: black !important;
+    transition: 0.2s;
+}
+
+.icon-color:hover {
+    color: darkgrey !important;
+    transform: scale3d(1.2, 1.2, 1);
+    transition: 0.2s !important;
+}
+
+.cardlink-color {
+    color: #0000EE !important;
+    transition: 0.2s !important;
+}
+
+.cardlink-color:hover {
+    color: #0000be !important;
+    transition: 0.2s !important;
+    text-decoration: underline;
+}

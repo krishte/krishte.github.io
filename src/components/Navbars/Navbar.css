@@ -1,0 +1,27 @@
+.navbar-button {
+    background-color: #51bcda;
+    border-radius: 25px;
+    transition: 0.3s !important;
+    text-align: center;
+}
+
+.navbar-button-active {
+    background-color: #2aa3c5;
+    border-radius: 25px;
+    transition: 0.3s !important;
+    text-align: center;
+}
+
+.navbar-button:hover {
+    transition: 0.3s !important;
+    background-color: #2aa3c5 !important;
+}
+
+.navbar-text {
+    padding: 10px;
+    color: white;
+    vertical-align: middle !important;
+    text-align: center !important;
+    display: flex;
+    justify-content: center !important;
+}
