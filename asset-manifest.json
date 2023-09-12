@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.f953f4bd.css",
-    "main.js": "/static/js/main.e10f3c4c.js",
+    "main.js": "/static/js/main.a58c21d3.js",
     "static/media/Switzerland2.JPG": "/static/media/Switzerland2.29bb15f65397e43bfbee.JPG",
     "static/media/Tejas.jpg": "/static/media/Tejas.82f4a59bcc7b9e3ed7f6.jpg",
-    "static/media/Website.png": "/static/media/Website.d22bd9fc567917e8a4ef.png",
     "static/media/login-image.jpg": "/static/media/login-image.21e8ba3f9dca3c346851.jpg",
     "static/media/fabio-mangione.jpg": "/static/media/fabio-mangione.488bc249dffdae3556c6.jpg",
     "static/media/BackgroundNoise.png": "/static/media/BackgroundNoise.53892809692a98993c4e.png",
     "static/media/daniel-olahh.jpg": "/static/media/daniel-olahh.77c0ffac60f9218de675.jpg",
     "static/media/Tracr.png": "/static/media/Tracr.340494ab36b21adad0b6.png",
+    "static/media/Resume2023.pdf": "/static/media/Resume2023.6f9935520240dee0f0ce.pdf",
+    "static/media/Tejas2.jpg": "/static/media/Tejas2.cf66f5ab216283454b66.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
     "static/media/joe-gardner-2.jpg": "/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
@@ -22,10 +23,10 @@
     "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
     "index.html": "/index.html",
     "main.f953f4bd.css.map": "/static/css/main.f953f4bd.css.map",
-    "main.e10f3c4c.js.map": "/static/js/main.e10f3c4c.js.map"
+    "main.a58c21d3.js.map": "/static/js/main.a58c21d3.js.map"
   },
   "entrypoints": [
     "static/css/main.f953f4bd.css",
-    "static/js/main.e10f3c4c.js"
+    "static/js/main.a58c21d3.js"
   ]
 }
