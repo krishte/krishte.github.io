@@ -1,15 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.f953f4bd.css",
-    "main.js": "/static/js/main.99ea9a10.js",
+    "main.js": "/static/js/main.3c3ed5a7.js",
     "static/media/Switzerland2.JPG": "/static/media/Switzerland2.29bb15f65397e43bfbee.JPG",
+    "static/media/London.JPG": "/static/media/London.b50317ddaa92f7b8fbe7.JPG",
+    "static/media/Switzerland1.JPG": "/static/media/Switzerland1.a581af00e8699d01ac3c.JPG",
+    "static/media/Cappadocia.JPG": "/static/media/Cappadocia.0b399a57cb22c5fa60c6.JPG",
+    "static/media/Kenya.JPG": "/static/media/Kenya.3653f088b96c449bdd8d.JPG",
+    "static/media/Beijing.JPG": "/static/media/Beijing.ecb6cc50c859d1657b35.JPG",
     "static/media/Tejas.jpg": "/static/media/Tejas.82f4a59bcc7b9e3ed7f6.jpg",
+    "static/media/Aqaba.JPG": "/static/media/Aqaba.12b659554331c3277142.JPG",
+    "static/media/Website.png": "/static/media/Website.d22bd9fc567917e8a4ef.png",
+    "static/media/Tejasviolin.png": "/static/media/Tejasviolin.baed1259cee68b46a16a.png",
     "static/media/BackgroundNoise.png": "/static/media/BackgroundNoise.53892809692a98993c4e.png",
+    "static/media/bitwise.png": "/static/media/bitwise.d1e8aaff544bbee5a3dc.png",
+    "static/media/Resume2024.pdf": "/static/media/Resume2024.1b2f902626417e2eb73d.pdf",
     "static/media/Tracr.png": "/static/media/Tracr.340494ab36b21adad0b6.png",
-    "static/media/bitwise.png": "/static/media/bitwise.c8740007a036d996b771.png",
-    "static/media/Resume2024.pdf": "/static/media/Resume2024.f3760f180a45a24f15e0.pdf",
+    "static/media/google.png": "/static/media/google.004d833f8f9f362b7b79.png",
     "static/media/Tejas2.jpg": "/static/media/Tejas2.cf66f5ab216283454b66.jpg",
     "static/media/timetableIcon.png": "/static/media/timetableIcon.434081646734faa19c5c.png",
+    "static/media/locaze.png": "/static/media/locaze.ad3567205f8cd36e5293.png",
     "static/media/Sudoku.png": "/static/media/Sudoku.dadf96dcd2c709b59f9e.png",
     "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
     "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
@@ -18,10 +28,10 @@
     "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
     "index.html": "/index.html",
     "main.f953f4bd.css.map": "/static/css/main.f953f4bd.css.map",
-    "main.99ea9a10.js.map": "/static/js/main.99ea9a10.js.map"
+    "main.3c3ed5a7.js.map": "/static/js/main.3c3ed5a7.js.map"
   },
   "entrypoints": [
     "static/css/main.f953f4bd.css",
-    "static/js/main.99ea9a10.js"
+    "static/js/main.3c3ed5a7.js"
   ]
 }
