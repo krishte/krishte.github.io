@@ -23,6 +23,10 @@ import React from "react";
 import { Container, Col, Row, Button} from "reactstrap";
 
 // core components
+function randomBackgroundImage() {
+  const possibleBackgroundImages = ["Cappadocia.JPG", "London.JPG", "Switzerland1.JPG", "Switzerland2.JPG"]
+  return possibleBackgroundImages[Math.floor(Math.random()*possibleBackgroundImages.length)]
+}
 
 function IndexHeader() {
   return (
@@ -30,8 +34,7 @@ function IndexHeader() {
       <div
         className="page-header section-dark"
         style={{
-          backgroundImage:
-            "url(" + require("assets/images/Switzerland2.JPG") + ")"
+          backgroundImage: "url(" + require("assets/images/" + randomBackgroundImage()) + ")"
         }}
       >
         <div className="content-center">

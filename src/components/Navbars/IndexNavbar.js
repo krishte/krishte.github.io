@@ -165,6 +165,20 @@ function IndexNavbar(props) {
                 Projects
               </Button>
             </NavItem>
+            <NavItem style={{paddingRight:"10px"}}>
+              <Button
+                className={classnames("btn-round")} color="info"
+                onClick={() =>
+                  window.scrollTo({
+                    left: 0,
+                    top: props.ref4.current.offsetTop-navbarheight,
+                    behavior: "smooth",
+                  })
+                }
+              >
+                Experience
+              </Button>
+            </NavItem>
           </Nav>
         </Collapse>
       </Container>
